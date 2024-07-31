@@ -10,8 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@huggingface/inference": "^2.8.0",
+    "@langchain/groq": "^0.0.13",
+    "@react-native-community/slider": "^4.5.2",
+    "axios": "^1.7.2",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-native": "0.74.3",
+    "react-native-dotenv": "^3.4.11",
+    "react-native-element-dropdown": "^2.12.1",
+    "react-native-picker-select": "^9.1.3",
+    "react-native-sse": "^1.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
